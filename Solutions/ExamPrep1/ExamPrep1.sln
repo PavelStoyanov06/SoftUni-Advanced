@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EnergyDrink", "01.EnergyDrink\01.EnergyDrink.csproj", "{589B4268-D98D-4E98-95AC-2977F62A19FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RallyRacing", "02.RallyRacing\02.RallyRacing.csproj", "{31B137EF-012C-405C-B861-B8A8D33BF804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589B4268-D98D-4E98-95AC-2977F62A19FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589B4268-D98D-4E98-95AC-2977F62A19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589B4268-D98D-4E98-95AC-2977F62A19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589B4268-D98D-4E98-95AC-2977F62A19FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B137EF-012C-405C-B861-B8A8D33BF804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B137EF-012C-405C-B861-B8A8D33BF804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B137EF-012C-405C-B861-B8A8D33BF804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B137EF-012C-405C-B861-B8A8D33BF804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D658B3F-0C4E-42F9-9314-1E5C9E8F068D}
+	EndGlobalSection
+EndGlobal
